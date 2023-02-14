@@ -1,6 +1,6 @@
 # Techie-s-Blogs
 # Technologies Used </br>
-*Flask
-*HTML
-*CSS
-*Javascript
+* Flask
+* HTML
+* CSS
+* Javascript

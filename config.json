@@ -1,0 +1,24 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/techieblogs",
+    "prod_uri": "mysql://root:@localhost/techieblogs",
+    "fb_url": "https://facebook.com/techieblogs",
+    "tw_url": "https://twitter.com/techieblogs",
+    "gh_url": "https://github.com/techieblogs",
+    "blog_name": "Techie's Blogs",
+    "tag_line": "Blogs by programmer",
+    "gmail-user": "dhanvi884@gmail.com",
+    "gmail-password": "gatenumber3",
+    "about_text": "Hi!! My name is Dhanvi Bansal. I am programmer and a techie. I had a knack for problem solving since childhood.I remain busy learning new web technologies and am always curious about learning new things.",
+    "no_of_posts": 1,
+    "login_img" : "login.png",
+    "admin_user": "dhanvi9",
+    "admin_password": "dhanvi123",
+    "upload_location": "C:\\Users\\Admin\\PycharmProjects\\flask-tut\\static\\assets"
+  }
+
+
+}
